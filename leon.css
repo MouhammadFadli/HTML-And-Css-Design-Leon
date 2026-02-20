@@ -179,7 +179,7 @@ body {
 /* End Header */
 /* Start Landing Section  */
 .landing {
-    background-image: url(../images/mountentpixabay-355747.jpg);
+    background-image: url(mountentpixabay-355747.jpg);
     background-size: cover;
     height: calc(100vh - 60px);
     position: realtive;
@@ -514,5 +514,6 @@ body {
     font-weight: bold;
     color: var(--main-color);
 }
+
 
 /* <!-- End Footer --> */
